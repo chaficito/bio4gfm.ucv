@@ -3,6 +3,7 @@
 ## Biologia - 4to Año de Bachillerato
 
 **Aux. Doc.** Jairo J. Rondón S.
+
 **Correo de Contacto:** jairo.rondon.gfm@gmail.com
 
 Guia de las Clases de Biologia de 4to año de bachillerato del Servicio Comunitario realizado en la U.E.N. "Generalisimo Francisco de Miranda" entre el 13 de Marzo del 2023 y el 6 de Junio del 2023. Cabe destacar que el orden de los temas se tomó de los lineamientos del *Proceso de Transformación Curricular en Educación Media. Areas de Formación* (MPPE, 2017) y del sitio web [*guao.org*](https://guao.org/cuarto_ano/biologia). Adicionalmente, en temas de contenido, se empleó el libro *Biología (Editorial Biosfera, 2007)* de *Serafín Mazparrote*, el mismo se adjuntará por partes en formato PDF por esta vía. 
