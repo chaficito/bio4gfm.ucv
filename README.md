@@ -12,7 +12,7 @@ Guia de las Clases de Biologia de 4to año de bachillerato del Servicio Comunita
 
 [Plan de Evaluación](Plan_Eval.pdf)
 
-[Calendario de Actividades para la Asigantura en *Google Calendar*](https://calendar.google.com/calendar/u/2?cid=amFpcm8ucm9uZG9uLmdmbUBnbWFpbC5jb20)
+[Calendario de Actividades para la Asignatura en *Google Calendar*](https://calendar.google.com/calendar/embed?src=jairo.rondon.gfm%40gmail.com&ctz=America%2FCaracas)
 
 [Calificaciones Detalladas](https://docs.google.com/spreadsheets/d/1dEX6elJxsQzoTEhX-kjFiQTtKCnsyaoQBF-lZcFot2M/edit?usp=sharing)
 
