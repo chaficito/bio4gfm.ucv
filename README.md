@@ -1,9 +1,7 @@
 # Servicio Comunitario UCV
-# U.E.N "Generalísimo Francisco de Miranda"
---- 
-## Otras Materias
-### [Física](FSC.md) - [Química](QMC.md) - [Matemáticas](MTM.md)
----
+# U.E.N "Generalísimo Francisco de Miranda" 
+## Otras Materias: [Física](FSC.md) - [Química](QMC.md) - [Matemáticas](MTM.md)
+
 ## Biología - 4to Año de Bachillerato
 
 `ACTUALIZADO 16/03/23`
