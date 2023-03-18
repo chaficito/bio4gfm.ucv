@@ -1,10 +1,10 @@
 # Servicio Comunitario UCV
-# U.E.N "Generalísimo Francisco de Miranda" 
-## Otras Materias: [Física](FSC.md) - [Química](QMC.md) - [Matemáticas](MTM.md)
+# U.E.N "Generalísimo Francisco de Miranda"
+## Otras Asignaturas: [Física](FSC.md) - [Química](QMC.md) - [Matemáticas](MTM.md)
 
-## Biología - 4to Año de Bachillerato
+# Biología - 4to Año de Bachillerato
 
-`ACTUALIZADO 16/03/23`
+`ACTUALIZADO 17/03/23`
 
 **Prestador del Servicio:** Jairo Rondón
 
@@ -26,7 +26,9 @@ Guía de las Clases de Biología de 4to año de bachillerato del Servicio Comuni
 4. **Presentación**. Conocer el grupo.
 
 ### Material Adicional - Clase 01
-Próximamente...
+[(PDF) Clase 1 - Libro Biosfera](https://drive.google.com/file/d/1lvKq0-RB3eRq33OdUvEyBpuSoRTpVDCV/view?usp=share_link)
+
+[(VIDEO) Del Big Bang al Presente en 8min](https://www.youtube.com/watch?v=9vTC8co9YAA)
 
 # Clase 02 - Formación de la Tierra y Primera Etapa Evolutiva (14/03/23)
 
@@ -36,6 +38,10 @@ Próximamente...
 4. **Formación de los Primeros Organismos**.
 
 ### Material Adicional - Clase 02
-Próximamente...
+[(PDF) Clase 2 - Libro Biosfera](https://drive.google.com/file/d/1hizI1qTneXmYRwWeQG1pEzkr-7vB8t05/view?usp=share_link)
+
+[(VIDEO) A Journey to the End of Time](https://www.youtube.com/watch?v=uD4izuDMUQA)
+
+[(VIDEO) A Journey to the End of Time EXPLICADO](https://www.youtube.com/watch?v=UossXAwFWPU)
 
 # Clase 03 - 23 (En Construcción...)
