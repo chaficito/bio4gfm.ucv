@@ -78,15 +78,19 @@ Guía de las Clases de Biología de 4to año de bachillerato del Servicio Comuni
 
 # Clase 05 - Evaluación I: Examen 1 (27.03.23)
 
-[Modelo A: Examen 1]()
-[Modelo B: Examen 1]()
-[Modelo C: Examen 1]()
-[Modelo D: Examen 1]()
+[Modelo A: Examen 1](Build.md)
+
+[Modelo B: Examen 1](Build.md)
+
+[Modelo C: Examen 1](Build.md)
+
+[Modelo D: Examen 1](Build.md)
 
 # Clase 06 - Evaluación I: Taller 1 (28.03.23)
 
-[Modelo A: Taller 1]()
-[Modelo B: Taller 1]()
+[Modelo A: Taller 1](Build.md)
+
+[Modelo B: Taller 1](Build.md)
 
 # Clase 07 - Evolución de la Vida hasta la Actualidad (10.04.23)
 
@@ -96,14 +100,17 @@ Guía de las Clases de Biología de 4to año de bachillerato del Servicio Comuni
 
 # Clase 09 - Evaluación II: Examen 2 (17.04.23)
 
-[Modelo Único: Examen 2]()
+[Modelo Único: Examen 2](Build.md)
 
 # Clase 10 - Evaluación II: Taller 2 (18.04.23)
 
-[Modelo A: Taller 2]()
-[Modelo B: Taller 2]()
-[Modelo C: Taller 2]()
-[Modelo D: Taller 2]()
+[Modelo A: Taller 2](Build.md)
+
+[Modelo B: Taller 2](Build.md)
+
+[Modelo C: Taller 2](Build.md)
+
+[Modelo D: Taller 2](Build.md)
 
 # Clase 11 - Reino Protista (24.04.23)
 
@@ -115,14 +122,17 @@ Guía de las Clases de Biología de 4to año de bachillerato del Servicio Comuni
 
 # Clase 14 - Evaluación III: Examen 3 (08.05.23)
 
-[Modelo A: Examen 3]()
-[Modelo B: Examen 3]()
-[Modelo C: Examen 3]()
-[Modelo D: Examen 3]()
+[Modelo A: Examen 3](Build.md)
+
+[Modelo B: Examen 3](Build.md)
+
+[Modelo C: Examen 3](Build.md)
+
+[Modelo D: Examen 3](Build.md)
 
 # Clase 15 - Evaluación III: Taller 3 (09.05.23)
 
-[Modelo Único: Taller 3]()
+[Modelo Único: Taller 3](Build.md)
 
 # Clase 16 - Reino Animal: Invertebrados (15.05.23)
 
@@ -136,7 +146,7 @@ Guía de las Clases de Biología de 4to año de bachillerato del Servicio Comuni
 
 # Clase 20 - Evaluación IV: Ensayo (29.05.23)
 
-[Instrucciones Ensayo Final]()
+[Instrucciones Ensayo Final](Build.md)
 
 # Clase 21 - Cierre del Curso (30.05.23)
 
