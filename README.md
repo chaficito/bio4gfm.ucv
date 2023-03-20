@@ -1,8 +1,7 @@
+### Otras Asignaturas:
+## [Física](FSC.md) - [Química](QMC.md) - [Matemáticas](MTM.md)
 # Servicio Comunitario UCV
 # U.E.N "Generalísimo Francisco de Miranda"
-## Otras Asignaturas:
-### [Física](FSC.md) - [Química](QMC.md) - [Matemáticas](MTM.md)
-
 # Biología - 4to Año de Bachillerato
 
 `ACTUALIZADO 19/03/23`
@@ -13,7 +12,7 @@
 
 Guía de las Clases de Biología de 4to año de bachillerato del Servicio Comunitario realizado en la U.E.N. "Generalísimo Francisco de Miranda" entre el 13 de Marzo del 2023 y el 6 de Junio del 2023. Cabe destacar que el orden de los temas se tomó de los lineamientos del [*Proceso de Transformación Curricular en Educación Media. Áreas de Formación*](https://drive.google.com/file/d/1xpTD825mFsEDG7UP8C2VlaakGVgxBTvy/view?usp=share_link) (MPPE, 2017) y del sitio web [*guao.org*](https://guao.org/cuarto_ano/biologia). Adicionalmente, en temas de contenido, se empleó el libro *Biología (Editorial Biosfera, 2007)* de *Serafín Mazparrote*, el mismo se adjuntará por partes en formato PDF por esta vía. 
 
-[Plan de Evaluación](Plan_Eval.pdf)
+[Plan de Evaluación](https://drive.google.com/file/d/1n2yxPbQiLD1ow1rNyOVwBEYRwNDr1XxE/view?usp=share_link)
 
 [Calendario de Actividades para la Asignatura en *Google Calendar*](https://calendar.google.com/calendar/embed?src=jairo.rondon.gfm%40gmail.com&ctz=America%2FCaracas)
 
