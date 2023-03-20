@@ -5,7 +5,7 @@
 
 # Biología - 4to Año de Bachillerato
 
-`ACTUALIZADO 18/03/23`
+`ACTUALIZADO 19/03/23`
 
 **Prestador del Servicio:** Jairo Rondón
 
@@ -37,7 +37,7 @@ Guía de las Clases de Biología de 4to año de bachillerato del Servicio Comuni
 
 1. **Entrega del Plan de Evaluación**. Explicación de las Actividades y Fechas Tentativas para las evaluaciones.
 2. **Repaso de la Clase 01**. Repaso de la Clase Anterior para comprobar entendimiento.
-3. **Formación de la Tierra y la Capa de Ozono**. Compuestos Químicos que conformaban la atmósfera terrestre primitiva (NH3, CO2) y Elementos que componían el suelo y subsuelo.
+3. **Formación de la Tierra y la Capa de Ozono**. Compuestos Químicos que conformaban la atmósfera terrestre primitiva (NH3, CO2, CH4) y Elementos que componían el suelo y subsuelo.
 4. **Formación de los Primeros Microorganismos**.
 5. **Propiedades Fisicoquímicas del Agua**. Con especial énfasis en Calor Especifico y Tensión Superficial.
 
@@ -50,62 +50,95 @@ Guía de las Clases de Biología de 4to año de bachillerato del Servicio Comuni
 
 [(VIDEO) A Journey to the End of Time EXPLICADO](https://www.youtube.com/watch?v=UossXAwFWPU)
 
-# Clase 03 - Energía, Respiración y Fotosíntesis (20.03.23)
+# Clase 03 - Energía, Fermentación y Fotosíntesis Primitiva (20.03.23)
 
 1. **Repaso de la Clase 02**.
 2. **Importancia de la Energía en la Vida Actual**. Desde la importancia de la energía y su rol en la vida, ejemplificar como los modelos energéticos primitivos de los microorganismos continuaron el desarrollo de la vida.
-3. **Mecanismo de Respiración**.
-4. **Fotosíntesis**.
-5. **Introducción a la Fermentación**.
+3. **Enzimas**. Funciones de las Enzimas y su Importancia en la Atmósfera Terrestre.
+4. **Fotosíntesis y Fermentación Primitiva**. Como se generaron los primeros microorganismos Autótrofos a partir de los Heterótrofos.
+5. **Evolución de los Microorganismos Fotosintetizadores**.
 
 ### Material Adicional - Clase 03
+[(PDF) Clase 3 - Libro Biosfera](https://drive.google.com/file/d/1OJEe5T8by1AkDRyV3k8OZQUbC58EkGrX/view?usp=share_link)
+
 [(PDF) Las Eras de la Tierra](https://drive.google.com/file/d/1m9JYrXrK47QkhrvCRqfwZ0tRLKR-0k5z/view?usp=share_link)
 
-[(PDF) La Fotosíntesis](https://drive.google.com/file/d/1fjn7jcfmoz4AR7QbHDdiep9jhQ0rwhOZ/view?usp=share_link)
 
-# Clase 04 - Fotosíntesis y Fermentación (21.03.23)
+# Clase 04 - Respiración, Fotosíntesis y Fermentación (21.03.23)
 
 1. **Repaso de la Clase 03**.
-2. **La Fermentación**.
+2. **Procesos Energéticos de los Seres**. Descripción y Clasificación
 3. **Importancia de los Procesos Energéticos**. Rol de la Fermentación y la Fotosíntesis en la evolución y desarrollo de la vida.
 
 ### Material Adicional - Clase 04
+[(PDF) Clase 4 - Libro Biosfera]()
+
+[(PDF) La Fotosíntesis](https://drive.google.com/file/d/1fjn7jcfmoz4AR7QbHDdiep9jhQ0rwhOZ/view?usp=share_link)
+
 [(PDF) La Fermentación](https://drive.google.com/file/d/1cSk29JL6hcaK1ckQ6-jk6MBxXYuhAqO5/view?usp=share_link)
 
 # Clase 05 - Evaluación I: Examen 1 (27.03.23)
 
+[Modelo A: Examen 1]()
+[Modelo B: Examen 1]()
+[Modelo C: Examen 1]()
+[Modelo D: Examen 1]()
+
 # Clase 06 - Evaluación I: Taller 1 (28.03.23)
 
-# Clase 07 - (10.04.23)
+[Modelo A: Taller 1]()
+[Modelo B: Taller 1]()
 
-# Clase 08 - (11.04.23)
+# Clase 07 - Evolución de la Vida hasta la Actualidad (10.04.23)
+
+1. **Entrega de Notas de la Actividad 1**. Tanto del Examen 1 como del Taller 1.
+
+# Clase 08 - Jerarquía de los Organismos Vivos (11.04.23)
 
 # Clase 09 - Evaluación II: Examen 2 (17.04.23)
 
+[Modelo Único: Examen 2]()
+
 # Clase 10 - Evaluación II: Taller 2 (18.04.23)
 
-# Clase 11
+[Modelo A: Taller 2]()
+[Modelo B: Taller 2]()
+[Modelo C: Taller 2]()
+[Modelo D: Taller 2]()
 
-# Clase 12
+# Clase 11 - Reino Protista (24.04.23)
 
-# Clase 13
+1. **Entrega de Notas de la Actividad 2**. Tanto del Examen 2 como del Taller 2.
 
-# Clase 14 - Evaluación III: Examen 3 ()
+# Clase 12 - Reino Fungi (25.04.23)
 
-# Clase 15 - Evaluación III: Taller 3 ()
+# Clase 13 - Reino Plantae (02.05.23)
 
-# Clase 16
+# Clase 14 - Evaluación III: Examen 3 (08.05.23)
 
-# Clase 17
+[Modelo A: Examen 3]()
+[Modelo B: Examen 3]()
+[Modelo C: Examen 3]()
+[Modelo D: Examen 3]()
 
-# Clase 18
+# Clase 15 - Evaluación III: Taller 3 (09.05.23)
 
-# Clase 19
+[Modelo Único: Taller 3]()
 
-# Clase 20 - Evaluación IV: Ensayo ()
+# Clase 16 - Reino Animal: Invertebrados (15.05.23)
 
-# Clase 21 
+1. **Entrega de Notas de la Actividad 3**. Tanto del Examen 3 como del Taller 3.
 
-# Clase 22
+# Clase 17 - Reino Animal: Peces y Anfibios (16.05.23)
 
-# Clase 23 
+# Clase 18 - Reino Animal: Aves (22.05.23)
+
+# Clase 19 - Reino Animal: Mamíferos (23.05.23)
+
+# Clase 20 - Evaluación IV: Ensayo (29.05.23)
+
+[Instrucciones Ensayo Final]()
+
+# Clase 21 - Cierre del Curso (30.05.23)
+
+1. **Palabras Finales**.
