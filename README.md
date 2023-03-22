@@ -6,7 +6,7 @@
 
 # Biología - 4to Año de Bachillerato
 
-`ACTUALIZADO 19/03/23`
+`ACTUALIZADO 22/03/23`
 
 **Prestador del Servicio:** Jairo Rondón
 
@@ -68,11 +68,14 @@ Guía de las Clases de Biología de 4to año de bachillerato del Servicio Comuni
 # Clase 04 - Respiración, Fotosíntesis y Fermentación (21.03.23)
 
 1. **Repaso de la Clase 03**.
-2. **Procesos Energéticos de los Seres**. Descripción y Clasificación
-3. **Importancia de los Procesos Energéticos**. Rol de la Fermentación y la Fotosíntesis en la evolución y desarrollo de la vida.
+2. **Procesos Energéticos de los Seres**. Descripción y Clasificación.
+3. **Fermetación**. Importancia y Tipos. Fermentacion Láctica, Alcohólica y Acética.
+4. **Fostosíntesis**. Fase Luminica y Fase Oscura. Importancia de la Glucosa y Producción de Oxigeno (O2), Factores que influyen en la Fotosíntesis. Curva Caracteristica de la Producción de Osigeno en función de la Luz recibida.
+5. **Respiración**. Fase Aeróbica y Anaeróbica. Creacion e Importancia del Acido Pirúvico.
+6. **Importancia de los Procesos Energéticos**. Rol de la Fermentación, la Fotosíntesis y la Respiración en la evolución y desarrollo de la vida. Como los Procesos Energeticos se complementan entre sí.
 
 ### Material Adicional - Clase 04
-[(PDF) Clase 4 - Libro Biosfera]()
+[(PDF) Clase 4 - Libro Biosfera](https://drive.google.com/file/d/1HlEARo7lSUgMZlSPfxczjbL7b_jqfWvo/view?usp=share_link)
 
 [(PDF) La Fotosíntesis](https://drive.google.com/file/d/1fjn7jcfmoz4AR7QbHDdiep9jhQ0rwhOZ/view?usp=share_link)
 
