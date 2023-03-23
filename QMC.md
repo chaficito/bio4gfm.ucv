@@ -3,7 +3,7 @@
 
 # Química - 4to Año de Bachillerato
 
-`ACTUALIZADO 19/03/23`
+`ACTUALIZADO 22/03/23`
 
 **Prestador del Servicio:** Greynner García
 
@@ -15,7 +15,7 @@ Material de Apoyo para las Clases de Química de 4to año de bachillerato del Se
 
 ## Material de Apoyo - Evaluación 1
 
-En Construcción...
+[(VIDEO) Modelos Atómicos (Dalton, Thomson, Rutherford, Bohr y Chadwick)](https://www.youtube.com/watch?v=8lX8FjjLKhc)
 
 ## Material de Apoyo - Evaluación 2
 ## Material de Apoyo - Evaluación 3
