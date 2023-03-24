@@ -6,7 +6,7 @@
 
 # Biología - 4to Año de Bachillerato
 
-`ACTUALIZADO 22/03/23`
+`ACTUALIZADO 24/03/23`
 
 **Prestador del Servicio:** Jairo Rondón
 
@@ -69,10 +69,10 @@ Guía de las Clases de Biología de 4to año de bachillerato del Servicio Comuni
 
 1. **Repaso de la Clase 03**.
 2. **Procesos Energéticos de los Seres**. Descripción y Clasificación.
-3. **Fermetación**. Importancia y Tipos. Fermentacion Láctica, Alcohólica y Acética.
-4. **Fostosíntesis**. Fase Luminica y Fase Oscura. Importancia de la Glucosa y Producción de Oxigeno (O2), Factores que influyen en la Fotosíntesis. Curva Caracteristica de la Producción de Osigeno en función de la Luz recibida.
-5. **Respiración**. Fase Aeróbica y Anaeróbica. Creacion e Importancia del Acido Pirúvico.
-6. **Importancia de los Procesos Energéticos**. Rol de la Fermentación, la Fotosíntesis y la Respiración en la evolución y desarrollo de la vida. Como los Procesos Energeticos se complementan entre sí.
+3. **Fermentación**. Importancia y Tipos. Fermentación Láctica, Alcohólica y Acética.
+4. **Fotosíntesis**. Fase Lumínica y Fase Oscura. Importancia de la Glucosa y Producción de Oxigeno (O2), Factores que influyen en la Fotosíntesis. Curva Característica de la Producción de Oxigeno en función de la Luz recibida.
+5. **Respiración**. Fase Aeróbica y Aeróbica. Creación e Importancia del Ácido Pirúvico.
+6. **Importancia de los Procesos Energéticos**. Rol de la Fermentación, la Fotosíntesis y la Respiración en la evolución y desarrollo de la vida. Como los Procesos Energéticos se complementan entre sí.
 
 ### Material Adicional - Clase 04
 [(PDF) Clase 4 - Libro Biosfera](https://drive.google.com/file/d/1HlEARo7lSUgMZlSPfxczjbL7b_jqfWvo/view?usp=share_link)
@@ -83,13 +83,13 @@ Guía de las Clases de Biología de 4to año de bachillerato del Servicio Comuni
 
 # Clase 05 - Evaluación I: Examen 1 (27.03.23)
 
-[Modelo A: Examen 1](Build.md)
+[Modelo A: Examen 1](https://drive.google.com/file/d/1_kPNHNXx5sQOUI_9z0-3gmcMOKFuDR3Q/view?usp=share_link)
 
-[Modelo B: Examen 1](Build.md)
+[Modelo B: Examen 1](https://drive.google.com/file/d/1EMWmDw1xRgzhVsbX5uguGZqBjvn9SE4o/view?usp=share_link)
 
-[Modelo C: Examen 1](Build.md)
+[Modelo C: Examen 1](https://drive.google.com/file/d/13krYnsG4BZ2YchtdKIwKQwc3qdcoltpA/view?usp=share_link)
 
-[Modelo D: Examen 1](Build.md)
+[Modelo D: Examen 1](https://drive.google.com/file/d/1P0wRw546CS-uK10rdS4pC5AA7I9DzFiG/view?usp=share_link)
 
 # Clase 06 - Evaluación I: Taller 1 (28.03.23)
 
