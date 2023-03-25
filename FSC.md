@@ -3,7 +3,7 @@
 
 # Física - 4to Año de Bachillerato
 
-`ACTUALIZADO 19/03/23`
+`ACTUALIZADO 25/03/23`
 
 **Prestador del Servicio:** Andrea Villegas
 
@@ -15,7 +15,7 @@ Material de Apoyo para las Clases de Física de 4to año de bachillerato del Ser
 
 ## Material de Apoyo - Evaluación 1
 
-En Construcción...
+[(PDF) Guía de Despejes para Física](https://drive.google.com/file/d/1w-BwyMhHGHFEv3cK1pIrgc2jK4TTIvCR/view?usp=share_link)
 
 ## Material de Apoyo - Evaluación 2
 ## Material de Apoyo - Evaluación 3
