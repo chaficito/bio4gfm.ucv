@@ -6,7 +6,7 @@
 
 # Biología - 4to Año de Bachillerato
 
-`ACTUALIZADO 24/03/23`
+`ACTUALIZADO 26/03/23`
 
 **Prestador del Servicio:** Jairo Rondón
 
@@ -19,6 +19,8 @@ Guía de las Clases de Biología de 4to año de bachillerato del Servicio Comuni
 [Calendario de Actividades para la Asignatura en *Google Calendar*](https://calendar.google.com/calendar/embed?src=jairo.rondon.gfm%40gmail.com&ctz=America%2FCaracas)
 
 [Calificaciones Detalladas](https://docs.google.com/spreadsheets/d/1dEX6elJxsQzoTEhX-kjFiQTtKCnsyaoQBF-lZcFot2M/edit?usp=sharing)
+
+[Playlist del Curso en *Spotify*](https://open.spotify.com/playlist/7vD8lku9GCeqJ2xAam3tjF?si=b81ab9eedf0b4ea7)
 
 # Clase 01 - Introducción (13.03.23)
 
@@ -83,25 +85,47 @@ Guía de las Clases de Biología de 4to año de bachillerato del Servicio Comuni
 
 # Clase 05 - Evaluación I: Examen 1 (27.03.23)
 
-[Modelo A: Examen 1](https://drive.google.com/file/d/1_kPNHNXx5sQOUI_9z0-3gmcMOKFuDR3Q/view?usp=share_link)
+[(PDF) Modelo A: Examen 1](https://drive.google.com/file/d/1_kPNHNXx5sQOUI_9z0-3gmcMOKFuDR3Q/view?usp=share_link)
 
-[Modelo B: Examen 1](https://drive.google.com/file/d/1EMWmDw1xRgzhVsbX5uguGZqBjvn9SE4o/view?usp=share_link)
+[(PDF) Modelo B: Examen 1](https://drive.google.com/file/d/1EMWmDw1xRgzhVsbX5uguGZqBjvn9SE4o/view?usp=share_link)
 
-[Modelo C: Examen 1](https://drive.google.com/file/d/13krYnsG4BZ2YchtdKIwKQwc3qdcoltpA/view?usp=share_link)
+[(PDF) Modelo C: Examen 1](https://drive.google.com/file/d/13krYnsG4BZ2YchtdKIwKQwc3qdcoltpA/view?usp=share_link)
 
-[Modelo D: Examen 1](https://drive.google.com/file/d/1P0wRw546CS-uK10rdS4pC5AA7I9DzFiG/view?usp=share_link)
+[(PDF) Modelo D: Examen 1](https://drive.google.com/file/d/1P0wRw546CS-uK10rdS4pC5AA7I9DzFiG/view?usp=share_link)
 
 # Clase 06 - Evaluación I: Taller 1 (28.03.23)
 
-[Modelo A: Taller 1](Build.md)
+[(PDF) Modelo A: Taller 1](Build.md)
 
-[Modelo B: Taller 1](Build.md)
+[(PDF) Modelo B: Taller 1](Build.md)
 
 # Clase 07 - Evolución de la Vida hasta la Actualidad (10.04.23)
 
 1. **Entrega de Notas de la Actividad 1**. Tanto del Examen 1 como del Taller 1.
+2. **Resumen de la Evolución en el Tiempo**. Recorrido por las Eras de la Tierra (Eras Precámbrica, Paleozoica, Mesozoica, Cenozoica) y como la vida se fue adaptando a los cambios geográficos y ambientales.
+3. **Mecanismos Evolutivos**. Selección Natural, Mutación, Flujo Genético y Derivación Genética.
+4. **Caso Evolutivo: *El Hombre***. Breve posible explicación (en base a diversas teorías) de cómo y porqué los simios primitivos evolucionaron a los primeros hombres (interacción, cultura y guerras).
+5. **Importancia de la Evolución** para todos los seres vivos pero ejemplificando con el caso de los humanos para que sea mas personal (y por tanto más trascendental) su importancia.
+
+### Material Adicional - Clase 07
+[(PDF) Clase 7 - Libro Sol90](https://drive.google.com/file/d/17QFDR8Enr0a0eKytp_v9e_fv6fzHDiMd/view?usp=share_link)
+
+[(PDF) Clase 7 - Libro Biosfera](Build.md)
+
+[(VIDEO) Antes, Durante y Después de los Dinosaurios](https://www.youtube.com/playlist?list=PLfBLOD0esqGz8GY_IZTmtzmgQKC0MCTyz)
+
 
 # Clase 08 - Jerarquía de los Organismos Vivos (11.04.23)
+
+1. **Repaso de la Clase 07**.
+2. **Tipos de Relaciones entre Organismo Vivos**. Mutualismo, Comensalismo, Parasitismo, Competencia y Depreciación.
+3. **Importancia de la Clasificación de los Seres Vivos**. Animales, Plantas, Algas y Bacterias.
+4. **Sistemas de Clasificación Moderna y Características de los Seres Vivos**.
+
+### Material Adicional - Clase 07
+[(PDF) Clase 8 - Libro Biosfera](Build.md)
+
+[(PDF) Clase 8 - Libro Sol90](Build.md)
 
 # Clase 09 - Evaluación II: Examen 2 (17.04.23)
 
