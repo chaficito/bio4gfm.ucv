@@ -20,7 +20,7 @@ Guía de las Clases de Biología de 4to año de bachillerato del Servicio Comuni
 
 [Calificaciones Detalladas](https://docs.google.com/spreadsheets/d/1dEX6elJxsQzoTEhX-kjFiQTtKCnsyaoQBF-lZcFot2M/edit?usp=sharing)
 
-[Playlist del Curso en *Spotify*](https://open.spotify.com/playlist/7vD8lku9GCeqJ2xAam3tjF?si=b81ab9eedf0b4ea7)
+[Soundtrack del Curso en *Spotify*](https://open.spotify.com/playlist/7vD8lku9GCeqJ2xAam3tjF?si=b81ab9eedf0b4ea7)
 
 # Clase 01 - Introducción (13.03.23)
 
@@ -95,9 +95,9 @@ Guía de las Clases de Biología de 4to año de bachillerato del Servicio Comuni
 
 # Clase 06 - Evaluación I: Taller 1 (28.03.23)
 
-[(PDF) Modelo A: Taller 1](Build.md)
+[(PDF) Modelo A: Taller 1 en Parejas](https://drive.google.com/file/d/1lXqJwHUXw0gEHpXqIbl1aQBhrvk7YDMy/view?usp=share_link)
 
-[(PDF) Modelo B: Taller 1](Build.md)
+[(PDF) Modelo B: Taller 1 en Parejas](https://drive.google.com/file/d/10APUAyDYp_2P6CdYkwPwCcQhRU2Sl8ve/view?usp=share_link)
 
 # Clase 07 - Evolución de la Vida hasta la Actualidad (10.04.23)
 
@@ -108,9 +108,9 @@ Guía de las Clases de Biología de 4to año de bachillerato del Servicio Comuni
 5. **Importancia de la Evolución** para todos los seres vivos pero ejemplificando con el caso de los humanos para que sea mas personal (y por tanto más trascendental) su importancia.
 
 ### Material Adicional - Clase 07
-[(PDF) Clase 7 - Libro Sol90](https://drive.google.com/file/d/17QFDR8Enr0a0eKytp_v9e_fv6fzHDiMd/view?usp=share_link)
-
 [(PDF) Clase 7 - Libro Biosfera](Build.md)
+
+[(PDF) Clase 7 - Libro Sol90](https://drive.google.com/file/d/17QFDR8Enr0a0eKytp_v9e_fv6fzHDiMd/view?usp=share_link)
 
 [(VIDEO) Antes, Durante y Después de los Dinosaurios](https://www.youtube.com/playlist?list=PLfBLOD0esqGz8GY_IZTmtzmgQKC0MCTyz)
 
