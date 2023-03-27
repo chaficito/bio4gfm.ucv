@@ -6,7 +6,7 @@
 
 # Biología - 4to Año de Bachillerato
 
-`ACTUALIZADO 26/03/23`
+`ACTUALIZADO 27/03/23`
 
 **Prestador del Servicio:** Jairo Rondón
 
@@ -17,6 +17,8 @@ Guía de las Clases de Biología de 4to año de bachillerato del Servicio Comuni
 [Plan de Evaluación](https://drive.google.com/file/d/1n2yxPbQiLD1ow1rNyOVwBEYRwNDr1XxE/view?usp=share_link)
 
 [Calendario de Actividades para la Asignatura en *Google Calendar*](https://calendar.google.com/calendar/embed?src=jairo.rondon.gfm%40gmail.com&ctz=America%2FCaracas)
+
+`Calificaciones Actualizadas al 00.00.00 - No Actualizado`
 
 [Calificaciones Detalladas](https://docs.google.com/spreadsheets/d/1dEX6elJxsQzoTEhX-kjFiQTtKCnsyaoQBF-lZcFot2M/edit?usp=sharing)
 
@@ -108,7 +110,7 @@ Guía de las Clases de Biología de 4to año de bachillerato del Servicio Comuni
 5. **Importancia de la Evolución** para todos los seres vivos pero ejemplificando con el caso de los humanos para que sea mas personal (y por tanto más trascendental) su importancia.
 
 ### Material Adicional - Clase 07
-[(PDF) Clase 7 - Libro Biosfera](Build.md)
+[(PDF) Clase 7 - Libro Biosfera](https://drive.google.com/file/d/1yW9-Nb6_yGea-Q7EH8cwZvTw2a4-Zqkh/view?usp=share_link)
 
 [(PDF) Clase 7 - Libro Sol90](https://drive.google.com/file/d/17QFDR8Enr0a0eKytp_v9e_fv6fzHDiMd/view?usp=share_link)
 
@@ -123,9 +125,9 @@ Guía de las Clases de Biología de 4to año de bachillerato del Servicio Comuni
 4. **Sistemas de Clasificación Moderna y Características de los Seres Vivos**.
 
 ### Material Adicional - Clase 07
-[(PDF) Clase 8 - Libro Biosfera](Build.md)
+[(PDF) Clase 8 - Libro Biosfera](https://drive.google.com/file/d/1Dbm1MhMgT3AVTq5KOER4LtdnSk2x79iJ/view?usp=share_link)
 
-[(PDF) Clase 8 - Libro Sol90](Build.md)
+[(PDF) Jerarquía de los Seres Vivos](https://drive.google.com/file/d/1emhyENiqmSwN56E7c74HQuYEk9RNxLqJ/view?usp=share_link)
 
 # Clase 09 - Evaluación II: Examen 2 (17.04.23)
 
@@ -137,11 +139,8 @@ Guía de las Clases de Biología de 4to año de bachillerato del Servicio Comuni
 
 [Modelo B: Taller 2](Build.md)
 
-[Modelo C: Taller 2](Build.md)
 
-[Modelo D: Taller 2](Build.md)
-
-# Clase 11 - Reino Protista (24.04.23)
+# Clase 11 - Reino Monera y Protista (24.04.23)
 
 1. **Entrega de Notas de la Actividad 2**. Tanto del Examen 2 como del Taller 2.
 
