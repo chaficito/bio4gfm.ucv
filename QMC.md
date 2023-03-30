@@ -3,7 +3,7 @@
 
 # Química - 4to Año de Bachillerato
 
-`ACTUALIZADO 25/03/23`
+`ACTUALIZADO 30/03/23`
 
 **Prestador del Servicio:** Greynner García
 
