@@ -17,6 +17,12 @@ Material de Apoyo para las Clases de Química de 4to año de bachillerato del Se
 
 [(VIDEO) Modelos Atómicos (Dalton, Thomson, Rutherford, Bohr y Chadwick)](https://www.youtube.com/watch?v=8lX8FjjLKhc)
 
+[(PDF) Modelos Atomicos - Libro Santillana](https://drive.google.com/file/d/14_RDibK9KzWclM0VfhkPqu_IUnK6h7AO/view?usp=drivesdk)
+
+[(PDF) Modelos Atomicos - Libro Caballero Ramos](https://drive.google.com/file/d/14bFe1Z5DnfMyuZM6a1YAcHjGh4L6tAtO/view?usp=drivesdk)
+
+[(PDF) Configuracion Electronica](https://www.youtube.com/watch?v=aIvZ_pCkKNI&feature=youtu.be)
+
 ![Tabla Periódica](https://lh3.googleusercontent.com/xgVFRhFVINiSS37xCoKp1HL-JgwGUCTLzocqaeUTf2hX6DlBHFM3HDPkqAk__yNW-lqsbPnN21bj6O3YaqHEPXzqYFW2ycTDbqCUmnbokmk9-bdVzpKieqov3hZV3JwaN72-S29s=w2400)
 
 ## Material de Apoyo - Evaluación 2
