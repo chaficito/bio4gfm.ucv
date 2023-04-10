@@ -3,7 +3,7 @@
 
 # Química - 4to Año de Bachillerato
 
-`ACTUALIZADO 30/03/23`
+`ACTUALIZADO 09/04/23`
 
 **Prestador del Servicio:** Greynner García
 
@@ -26,6 +26,9 @@ Material de Apoyo para las Clases de Química de 4to año de bachillerato del Se
 ![Tabla Periódica](https://lh3.googleusercontent.com/xgVFRhFVINiSS37xCoKp1HL-JgwGUCTLzocqaeUTf2hX6DlBHFM3HDPkqAk__yNW-lqsbPnN21bj6O3YaqHEPXzqYFW2ycTDbqCUmnbokmk9-bdVzpKieqov3hZV3JwaN72-S29s=w2400)
 
 ## Material de Apoyo - Evaluación 2
+
+[(PDF) Los Átomos y la Tabla Periódica](https://drive.google.com/file/d/1n8_IwcW3Batz5KN-lrOfHasatmEnvgdL/view?usp=share_link)
+
 ## Material de Apoyo - Evaluación 3
 ## Material de Apoyo - Evaluación 4
 

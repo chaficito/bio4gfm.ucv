@@ -3,7 +3,7 @@
 
 # Matemáticas - 4to Año de Bachillerato
 
-`ACTUALIZADO 25/03/23`
+`ACTUALIZADO 09/04/23`
 
 **Prestador del Servicio:** Marcell Briceño
 
@@ -12,6 +12,8 @@
 Material de Apoyo para las Clases de Matemáticas de 4to año de bachillerato del Servicio Comunitario realizado en la U.E.N. "Generalísimo Francisco de Miranda" entre el 13 de Marzo del 2023 y el 6 de Junio del 2023.
 
 [Plan de Evaluación](https://drive.google.com/file/d/1YRl_j0lRh7vnMinKXTCRAWWnScUARwUR/view?usp=share_link)
+
+[Registro Evaluativo](https://docs.google.com/spreadsheets/d/1HU9LNvpcdXRweshy6iyO9G3VC4Rg-lw3/edit?usp=share_link&ouid=102347422668289452029&rtpof=true&sd=true)
 
 ## Material de Apoyo - Evaluación 1
 
