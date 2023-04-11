@@ -13,8 +13,6 @@ Material de Apoyo para las Clases de Física de 4to año de bachillerato del Ser
 
 [Plan de Evaluación](https://drive.google.com/file/d/1ORFpeHL2SdqdLzqeXoB9PXJtvQveKagQ/view?usp=share_link)
 
-[Detalle de Notas](https://docs.google.com/spreadsheets/d/10EEUbZKs55527TYQsbZmd-Cc4iZIlMTz/edit?usp=share_link&ouid=102347422668289452029&rtpof=true&sd=true)
-
 ## Material de Apoyo - Evaluación 1
 
 [(PDF) Guía de Despejes para Física](https://drive.google.com/file/d/1w-BwyMhHGHFEv3cK1pIrgc2jK4TTIvCR/view?usp=share_link)
