@@ -23,6 +23,8 @@ Material de Apoyo para las Clases de Física de 4to año de bachillerato del Ser
 
 [(PDF) Solución a Taller 1](https://drive.google.com/file/d/1N7cDyR_59SG__NziwbjK25HQUV7TL5-B/view?usp=share_link)
 
+[Detalle de Notas Evaluación 1](https://docs.google.com/spreadsheets/d/10EEUbZKs55527TYQsbZmd-Cc4iZIlMTz/edit?usp=share_link&ouid=102347422668289452029&rtpof=true&sd=true)
+
 ## Material de Apoyo - Evaluación 2
 ## Material de Apoyo - Evaluación 3
 ## Material de Apoyo - Evaluación 4
