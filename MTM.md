@@ -3,7 +3,7 @@
 
 # Matemáticas - 4to Año de Bachillerato
 
-`ACTUALIZADO 09/04/23`
+`ACTUALIZADO 10/04/23`
 
 **Prestador del Servicio:** Marcell Briceño
 
@@ -30,5 +30,8 @@ Material de Apoyo para las Clases de Matemáticas de 4to año de bachillerato de
 [(PDF) Semejanza de Triángulos](https://drive.google.com/file/d/16-ZNkye-NDUQN7W-eQHlmNR7BLE5uwjy/view?usp=share_link)
 
 ## Material de Apoyo - Evaluación 2
+
+[(PDF) Clase 05 - 10.04.23](https://drive.google.com/file/d/1u639TlNLVuXP7xIsCyBcYq9YVNBSjhqY/view?usp=share_link)
+
 ## Material de Apoyo - Evaluación 3
 ## Material de Apoyo - Evaluación 4
