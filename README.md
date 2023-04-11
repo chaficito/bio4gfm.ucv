@@ -18,7 +18,7 @@ Guía de las Clases de Biología de 4to año de bachillerato del Servicio Comuni
 
 [Calendario de Actividades para la Asignatura en *Google Calendar*](https://calendar.google.com/calendar/embed?src=jairo.rondon.gfm%40gmail.com&ctz=America%2FCaracas)
 
-`Calificaciones Actualizadas al 09.04.23 - Evaluacion 1 
+`Calificaciones Actualizadas al 09.04.23 - Evaluacion 1`
 
 [Calificaciones Detalladas](https://docs.google.com/spreadsheets/d/1dEX6elJxsQzoTEhX-kjFiQTtKCnsyaoQBF-lZcFot2M/edit?usp=sharing)
 
