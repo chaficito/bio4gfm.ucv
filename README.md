@@ -131,17 +131,17 @@ Guía de las Clases de Biología de 4to año de bachillerato del Servicio Comuni
 
 # Clase 09 - Evaluación II: Examen 2 (17.04.23)
 
-[Modelo A: Examen 2](https://drive.google.com/file/d/17OVw2pNL1yVSu_lNjUsYhqKL2Z1A-YtG/view?usp=share_link)
+[(PDF) Modelo A: Examen 2](https://drive.google.com/file/d/17OVw2pNL1yVSu_lNjUsYhqKL2Z1A-YtG/view?usp=share_link)
 
-[Modelo B: Examen 2](https://drive.google.com/file/d/1R-Ryyh-aLUj9MehMmTPSM-TSGD-VZdYj/view?usp=share_link)
+[(PDF) Modelo B: Examen 2](https://drive.google.com/file/d/1R-Ryyh-aLUj9MehMmTPSM-TSGD-VZdYj/view?usp=share_link)
 
-[Modelo C: Examen 2](https://drive.google.com/file/d/1qUh_hr2cpOz_lDqjvuiUDcv17n1bBnS4/view?usp=share_link)
+[(PDF) Modelo C: Examen 2](https://drive.google.com/file/d/1qUh_hr2cpOz_lDqjvuiUDcv17n1bBnS4/view?usp=share_link)
 
-[Modelo D: Examen 2](https://drive.google.com/file/d/1HDNIHZ_KfAk_03W8IYMVeWS_nJCiH9qF/view?usp=share_link)
+[(PDF) Modelo D: Examen 2](https://drive.google.com/file/d/1HDNIHZ_KfAk_03W8IYMVeWS_nJCiH9qF/view?usp=share_link)
 
 # Clase 10 - Evaluación II: Taller 2 (18.04.23)
 
-[Modelo Único: Taller 2](https://drive.google.com/file/d/1KtMpsAhc1ENybLkktKVHhEjwedpmBpEV/view?usp=share_link)
+[(PDF) Modelo Único: Taller 2](https://drive.google.com/file/d/1KtMpsAhc1ENybLkktKVHhEjwedpmBpEV/view?usp=share_link)
 
 # Clase 11 - Reino Monera y Protista (24.04.23)
 
