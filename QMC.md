@@ -3,7 +3,7 @@
 
 # Química - 4to Año de Bachillerato
 
-`ACTUALIZADO 13/04/23`
+`ACTUALIZADO 16/04/23`
 
 **Prestador del Servicio:** Greynner García
 
@@ -40,6 +40,10 @@ Material de Apoyo para las Clases de Química de 4to año de bachillerato del Se
 [(VIDEO) Electronegatividad](https://www.youtube.com/watch?v=SksNXasRax8)
 
 [(VIDEO) Carácter Metálico](https://www.youtube.com/watch?v=X6aBIWIysoE)
+
+[(VIDEO) Tipos de Enlaces Químicos](https://www.youtube.com/watch?v=xfvuQSJD2HM)
+
+[(VIDEO) Estructura de Lewis, Enlace Iónico y Covalente, Regla del octeto](https://www.youtube.com/watch?v=US4CKeK4Q54)
 
 ## Material de Apoyo - Evaluación 3
 ## Material de Apoyo - Evaluación 4
