@@ -3,7 +3,7 @@
 
 # Física - 4to Año de Bachillerato
 
-`ACTUALIZADO 10/04/23`
+`ACTUALIZADO 20/04/23`
 
 **Prestador del Servicio:** Andrea Villegas
 
@@ -13,7 +13,14 @@ Material de Apoyo para las Clases de Física de 4to año de bachillerato del Ser
 
 [Plan de Evaluación](https://drive.google.com/file/d/1ORFpeHL2SdqdLzqeXoB9PXJtvQveKagQ/view?usp=share_link)
 
+## Notas
+`Actualizadas con notas de la superacion de la Evaluacion 1`
+
+[(Google Sheets) Notas Generales](https://docs.google.com/spreadsheets/d/1hI5opLYK8FGqldud-6-BIDaCO7OK8oXwv70wgTzv3fg/edit?usp=sharing)
+
 ## Material de Apoyo - Evaluación 1
+
+**TEMAS: Cinemática. Caida Libre**
 
 [(PDF) Guía de Despejes para Física](https://drive.google.com/file/d/1w-BwyMhHGHFEv3cK1pIrgc2jK4TTIvCR/view?usp=share_link)
 
@@ -21,8 +28,10 @@ Material de Apoyo para las Clases de Física de 4to año de bachillerato del Ser
 
 [(PDF) Solución a Taller 1](https://drive.google.com/file/d/1N7cDyR_59SG__NziwbjK25HQUV7TL5-B/view?usp=share_link)
 
-[Detalle de Notas Evaluación 1](https://docs.google.com/spreadsheets/d/10EEUbZKs55527TYQsbZmd-Cc4iZIlMTz/edit?usp=share_link&ouid=102347422668289452029&rtpof=true&sd=true)
 
 ## Material de Apoyo - Evaluación 2
+
+**TEMAS: Fuerza. Leyes de Newton**
+
 ## Material de Apoyo - Evaluación 3
 ## Material de Apoyo - Evaluación 4
