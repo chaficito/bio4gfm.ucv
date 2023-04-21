@@ -38,6 +38,7 @@ Material de Apoyo para las Clases de Física de 4to año de bachillerato del Ser
 **Material complementario:**
 
 [(PDF) Fuerza, peso y masa. Material de guao.org](https://drive.google.com/file/d/1_KdFb53UbSsSNDrrGmgXeqSRViiaaM1f/view?usp=sharing)
+
 [(PDF) Dinámica y fuerzas. Material de guao.org](https://drive.google.com/file/d/1VDvBxf6tOJW0aB9CmGj0-pUM7QE7JHO8/view?usp=sharing)
 
 ## Material de Apoyo - Evaluación 3
