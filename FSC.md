@@ -3,7 +3,7 @@
 
 # Física - 4to Año de Bachillerato
 
-`ACTUALIZADO 20/04/23`
+`ACTUALIZADO 21/04/23`
 
 **Prestador del Servicio:** Andrea Villegas
 
@@ -11,7 +11,7 @@
 
 Material de Apoyo para las Clases de Física de 4to año de bachillerato del Servicio Comunitario realizado en la U.E.N. "Generalísimo Francisco de Miranda" entre el 13 de Marzo del 2023 y el 6 de Junio del 2023.
 
-[Plan de Evaluación](https://drive.google.com/file/d/1ORFpeHL2SdqdLzqeXoB9PXJtvQveKagQ/view?usp=share_link)
+[(PDF) Plan de Evaluación actualizado al 21/04](https://drive.google.com/file/d/1EbfGOpz_FOxDn4J4LbWJK5Y28HjgFKW5/view?usp=sharing)
 
 ## Notas
 `Actualizadas con notas de la superacion de la Evaluacion 1`
@@ -32,6 +32,13 @@ Material de Apoyo para las Clases de Física de 4to año de bachillerato del Ser
 ## Material de Apoyo - Evaluación 2
 
 **TEMAS: Fuerza. Leyes de Newton**
+
+**TAREA EVALUADA:** [(PDF) Tarea 1](https://drive.google.com/file/d/1Ganp8v5rw3W6b0_NBjCJVhlVn4U7cUn0/view?usp=sharing)
+
+**Material complementario:**
+
+[(PDF) Fuerza, peso y masa. Material de guao.org](https://drive.google.com/file/d/1_KdFb53UbSsSNDrrGmgXeqSRViiaaM1f/view?usp=sharing)
+[(PDF) Dinámica y fuerzas. Material de guao.org](https://drive.google.com/file/d/1VDvBxf6tOJW0aB9CmGj0-pUM7QE7JHO8/view?usp=sharing)
 
 ## Material de Apoyo - Evaluación 3
 ## Material de Apoyo - Evaluación 4
