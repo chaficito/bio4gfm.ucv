@@ -6,7 +6,7 @@
 
 # Biología - 4to Año de Bachillerato
 
-`ACTUALIZADO 14/04/23`
+`ACTUALIZADO 03/05/23`
 
 **Prestador del Servicio:** Jairo Rondón
 
@@ -143,27 +143,37 @@ Guía de las Clases de Biología de 4to año de bachillerato del Servicio Comuni
 
 [(PDF) Modelo Único: Taller 2](https://drive.google.com/file/d/1KtMpsAhc1ENybLkktKVHhEjwedpmBpEV/view?usp=share_link)
 
-# Clase 11 - Reino Monera y Protista (24.04.23)
+# Clase 11 - Reino Monera y Algas (24.04.23)
 
 1. **Entrega de Notas de la Actividad 2**. Tanto del Examen 2 como del Taller 2.
 
+### Material Adicional - Clase 11
+
+[(PDF) Reino Monera - Libro Biosfera](https://drive.google.com/file/d/1bZ1J2JixpiaU44IRxF7r4w3TOr8j9WXA/view?usp=share_link)
+
+[(PDF) Las Algas - Libro Biosfera](https://drive.google.com/file/d/1ISQUhpISiPz7KEBv6vPpytcSE8d9qUmC/view?usp=share_link)
+
 # Clase 12 - Reino Fungi (25.04.23)
+
+### Material Adicional - Clase 12
+
+[(PDF) Clase 12 - Libro Biosfera](https://drive.google.com/file/d/10KtfTYrtm448zF7SrhsVqzJA-3nF7lmp/view?usp=share_link)
 
 # Clase 13 - Reino Plantae (02.05.23)
 
-# Clase 14 - Evaluación III: Examen 3 (08.05.23)
+### Material Adicional - Clase 13
 
-[Modelo A: Examen 3](Build.md)
+[(PDF) Clase 13 - Libro Biosfera](https://drive.google.com/file/d/1L1pEaTf_KXvA3U89xk_AMSK-J4m4J6Kw/view?usp=share_link)
 
-[Modelo B: Examen 3](Build.md)
+[(PDF) Taxonomía de Algas, Plantas y Hongos](https://drive.google.com/file/d/11OvJBoQO0FG1LrGzA6t7I8SsbI3UWr_h/view?usp=share_link)
 
-[Modelo C: Examen 3](Build.md)
+# Clase 14 - Evaluación III: Taller 3 (08.05.23)
 
-[Modelo D: Examen 3](Build.md)
+[(PDF) Modelo Único: Taller 3](https://drive.google.com/file/d/1EG23NWkeYH_oVlrcr51FylBEySXuIGeJ/view?usp=share_link)
 
-# Clase 15 - Evaluación III: Taller 3 (09.05.23)
+# Clase 15 - Evaluación III: Examen 3 (09.05.23)
 
-[Modelo Único: Taller 3](Build.md)
+[(PDF) Modelo Único: Examen 3](https://drive.google.com/file/d/1IAfgDH0kVw6vW-cayze6EV-jf4TrKqwO/view?usp=share_link)
 
 # Clase 16 - Reino Animal: Invertebrados (15.05.23)
 
@@ -177,7 +187,7 @@ Guía de las Clases de Biología de 4to año de bachillerato del Servicio Comuni
 
 # Clase 20 - Evaluación IV: Ensayo (29.05.23)
 
-[Instrucciones Ensayo Final](Build.md)
+[(PDF) Instrucciones Ensayo Final](Build.md)
 
 # Clase 21 - Cierre del Curso (30.05.23)
 
