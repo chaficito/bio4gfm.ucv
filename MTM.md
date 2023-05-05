@@ -3,7 +3,7 @@
 
 # Matemáticas - 4to Año de Bachillerato
 
-`ACTUALIZADO 16/04/23`
+`ACTUALIZADO 05/05/23`
 
 **Prestador del Servicio:** Marcell Briceño
 
@@ -34,6 +34,10 @@ Material de Apoyo para las Clases de Matemáticas de 4to año de bachillerato de
 [(PDF) Clase 05 - 10.04.23](https://drive.google.com/file/d/1u639TlNLVuXP7xIsCyBcYq9YVNBSjhqY/view?usp=share_link)
 
 [(PDF) Clase 06 - 12.04.23](https://drive.google.com/file/d/1eOKHGBFm8u9yCeL5cFiB_fsQbsA89sIJ/view?usp=share_link)
+
+[(PDF) Clase 07 - 26.04.23](https://drive.google.com/file/d/1DqccjWhhr3RL4-6AV1wkElY7-RlVca5o/view?usp=share_link)
+
+[(PDF) Clase 08 - 03.05.23](https://drive.google.com/file/d/1lLmmuOQc2vQ5ywq5z1VfVAtLbEVjltKB/view?usp=share_link)
 
 [(PDF) Quía de Estudio para Quiz de la Evaluación 2](https://drive.google.com/file/d/11BhZN5GEOxy2GEgpTILoRAeAsbeX0TrX/view?usp=share_link)
 
