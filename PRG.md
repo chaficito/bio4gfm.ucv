@@ -11,13 +11,11 @@
 
 Material de Apoyo para las Clases de Lógica Programación de bachillerato del Servicio Comunitario realizado en la U.E.N. "Generalísimo Francisco de Miranda" entre el 13 de Marzo del 2023 y el 6 de Junio del 2023.
 
-[Plan de Evaluación]()
+`Calificaciones Actualizada al 07.05.23`
 
-`Calificaciones Actualizada al 00.00.00`
+[Calificaciones Detalladas 5to](https://docs.google.com/spreadsheets/d/1I0ESNxlS0xkikvOJ6eQL2-QxrSS0hKaMOGvHs6MjYT8/edit?usp=share_link)
 
-[Calificaciones Detalladas 5to]()
-
-[Calificaciones Detalladas 4to]()
+[Calificaciones Detalladas 4to](https://docs.google.com/spreadsheets/d/1D2cr8XQ4Qp5HRr9HaxKQqp_H3vquIQ_gdAXeGlHONjM/edit?usp=share_link)
 
 # Clase 01 - Introducción y Lógica (27.04.23)
 
