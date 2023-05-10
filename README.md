@@ -6,7 +6,7 @@
 
 # Biología - 4to Año de Bachillerato
 
-`ACTUALIZADO 03/05/23`
+`ACTUALIZADO 10/05/23`
 
 **Prestador del Servicio:** Jairo Rondón
 
@@ -18,7 +18,7 @@ Guía de las Clases de Biología de 4to año de bachillerato del Servicio Comuni
 
 [Calendario de Actividades para la Asignatura en *Google Calendar*](https://calendar.google.com/calendar/embed?src=jairo.rondon.gfm%40gmail.com&ctz=America%2FCaracas)
 
-`Calificaciones Actualizadas al 09.04.23 - Evaluacion 1`
+`Calificaciones Actualizadas al 10.05.23 - Evaluacion 1`
 
 [Calificaciones Detalladas](https://docs.google.com/spreadsheets/d/1dEX6elJxsQzoTEhX-kjFiQTtKCnsyaoQBF-lZcFot2M/edit?usp=sharing)
 
@@ -171,13 +171,13 @@ Guía de las Clases de Biología de 4to año de bachillerato del Servicio Comuni
 
 [(PDF) Modelo Único: Taller 3](https://drive.google.com/file/d/1EG23NWkeYH_oVlrcr51FylBEySXuIGeJ/view?usp=share_link)
 
-# Clase 15 - Evaluación III: Examen 3 (09.05.23)
+# Clase 15 - Evaluación III: Proyecto (09.05.23)
 
-[(PDF) Modelo Único: Examen 3](https://drive.google.com/file/d/1IAfgDH0kVw6vW-cayze6EV-jf4TrKqwO/view?usp=share_link)
+[(PDF) Modelo Único: Proyecto](https://drive.google.com/file/d/1IAfgDH0kVw6vW-cayze6EV-jf4TrKqwO/view?usp=share_link)
 
 # Clase 16 - Reino Animal: Invertebrados (15.05.23)
 
-1. **Entrega de Notas de la Actividad 3**. Tanto del Examen 3 como del Taller 3.
+1. **Entrega de Notas de la Actividad 3**. Tanto del Proyecto como del Taller 3.
 
 # Clase 17 - Reino Animal: Peces y Anfibios (16.05.23)
 
@@ -185,9 +185,9 @@ Guía de las Clases de Biología de 4to año de bachillerato del Servicio Comuni
 
 # Clase 19 - Reino Animal: Mamíferos (23.05.23)
 
-# Clase 20 - Evaluación IV: Ensayo (29.05.23)
+# Clase 20 - Evaluación IV: Exposición (29.05.23)
 
-[(PDF) Instrucciones Ensayo Final](Build.md)
+[(PDF) Instrucciones Exposición](Build.md)
 
 # Clase 21 - Cierre del Curso (30.05.23)
 
