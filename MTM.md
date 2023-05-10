@@ -42,4 +42,9 @@ Material de Apoyo para las Clases de Matemáticas de 4to año de bachillerato de
 [(PDF) Quía de Estudio para Quiz de la Evaluación 2](https://drive.google.com/file/d/11BhZN5GEOxy2GEgpTILoRAeAsbeX0TrX/view?usp=share_link)
 
 ## Material de Apoyo - Evaluación 3
+
+[(PDF) Clase 09 - 08.05.23](https://drive.google.com/file/d/1Z-oyJrAUuUnHh6g0IhSRJM87M_Bx2TDl/view?usp=share_link)
+
+[(PDF) Clase 10 - 10.05.23](https://drive.google.com/file/d/1_GHAmFpsNHz5Pemcgm9z0B9bGX8i_mpw/view?usp=share_link)
+
 ## Material de Apoyo - Evaluación 4
