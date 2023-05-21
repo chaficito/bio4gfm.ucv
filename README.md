@@ -6,7 +6,7 @@
 
 # Biología - 4to Año de Bachillerato
 
-`ACTUALIZADO 10/05/23`
+`ACTUALIZADO 21/05/23`
 
 **Prestador del Servicio:** Jairo Rondón
 
@@ -84,6 +84,8 @@ Guía de las Clases de Biología de 4to año de bachillerato del Servicio Comuni
 [(PDF) La Fotosíntesis](https://drive.google.com/file/d/1fjn7jcfmoz4AR7QbHDdiep9jhQ0rwhOZ/view?usp=share_link)
 
 [(PDF) La Fermentación](https://drive.google.com/file/d/1cSk29JL6hcaK1ckQ6-jk6MBxXYuhAqO5/view?usp=share_link)
+
+[(PDF) Informe: Producción de Vino Casera](https://drive.google.com/file/d/1j3H899GT1OO1sKAAC53iq-zxDM-RhZBC/view?usp=share_link)
 
 # Clase 05 - Evaluación I: Examen 1 (27.03.23)
 
