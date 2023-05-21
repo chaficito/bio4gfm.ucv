@@ -3,7 +3,7 @@
 
 # Química - 4to Año de Bachillerato
 
-`ACTUALIZADO 10/05/23`
+`ACTUALIZADO 21/05/23`
 
 **Prestador del Servicio:** Greynner García
 
@@ -53,3 +53,10 @@ Material de Apoyo para las Clases de Química de 4to año de bachillerato del Se
 
 ## Material de Apoyo - Evaluación 4
 
+[(VIDEO) Estequiometría Parte 1](https://www.youtube.com/watch?v=rXsLkU8RP2E)
+
+[(VIDEO) Estequiometría Parte 2](https://www.youtube.com/watch?v=9mG4xlbVHX0)
+
+[(VIDEO) Estequiometría Parte 3](https://www.youtube.com/watch?v=99T6dl1U_tw)
+
+[(PDF) Guía de Estequiometría](https://drive.google.com/file/d/1p7rrwt5Hx83BdtrE3BeI21WM04XRzvbU/view?usp=share_link)
