@@ -51,8 +51,6 @@ Material de Apoyo para las Clases de Química de 4to año de bachillerato del Se
 
 [(PDF) Guía de Balanceo por Tanteo](https://drive.google.com/file/d/1_dhhULd9-dMHXy6rv8r0DzfnhRlkCJ4S/view?usp=share_link)
 
-## Material de Apoyo - Evaluación 4
-
 [(VIDEO) Estequiometría Parte 1](https://www.youtube.com/watch?v=rXsLkU8RP2E)
 
 [(VIDEO) Estequiometría Parte 2](https://www.youtube.com/watch?v=9mG4xlbVHX0)
@@ -60,3 +58,6 @@ Material de Apoyo para las Clases de Química de 4to año de bachillerato del Se
 [(VIDEO) Estequiometría Parte 3](https://www.youtube.com/watch?v=99T6dl1U_tw)
 
 [(PDF) Guía de Estequiometría](https://drive.google.com/file/d/1p7rrwt5Hx83BdtrE3BeI21WM04XRzvbU/view?usp=share_link)
+
+## Material de Apoyo - Evaluación 4
+
