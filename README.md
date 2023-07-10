@@ -6,7 +6,7 @@
 
 # Biología - 4to Año de Bachillerato
 
-`ACTUALIZADO 21/05/23`
+`ACTUALIZACIÓN FINAL 09/07/23 - Ver:` [https://chaficito.github.io/bio4gfm.ucv/mrd.md](mrd.md)
 
 **Prestador del Servicio:** Jairo Rondón
 
@@ -17,10 +17,6 @@ Guía de las Clases de Biología de 4to año de bachillerato del Servicio Comuni
 [Plan de Evaluación](https://drive.google.com/file/d/1n2yxPbQiLD1ow1rNyOVwBEYRwNDr1XxE/view?usp=share_link)
 
 [Calendario de Actividades para la Asignatura en *Google Calendar*](https://calendar.google.com/calendar/embed?src=jairo.rondon.gfm%40gmail.com&ctz=America%2FCaracas)
-
-`Calificaciones Actualizadas al 10.05.23 - Evaluacion 1`
-
-[Calificaciones Detalladas](https://docs.google.com/spreadsheets/d/1dEX6elJxsQzoTEhX-kjFiQTtKCnsyaoQBF-lZcFot2M/edit?usp=sharing)
 
 [Soundtrack del Curso en *Spotify*](https://open.spotify.com/playlist/7vD8lku9GCeqJ2xAam3tjF?si=b81ab9eedf0b4ea7)
 
